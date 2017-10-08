@@ -23,6 +23,7 @@
   },
   "peerDependencies": {
     "bedrock": "digitalbazaar/bedrock#jsonld-1.1",
+    "bedrock-aws": "digitalbazaar/bedrock-aws#implementation",
     "bedrock-mongodb": "^3.0.0",
     "bedrock-permission": "^2.3.2",
     "bedrock-jobs": "^2.0.3"
